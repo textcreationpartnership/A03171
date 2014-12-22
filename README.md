@@ -35,11 +35,219 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An hundred epigrammes. Inuented and made by Iohn HeywoodHeywood, John, 1497?-1580?1550Approx. 72 KB 
+
+1. ¶ To the reader.
+
+1. ¶ The table of this booke.
+
 #####Body#####
 
+1. An Epigramme on this boke
+
+1. Of three ſages. II.
+
+1. Queſtions aunſwered. III.
+
+1. Of water, wyne, and aſe. IIII.
+
+1. To muche or to littell. V.
+
+1. Of the ſenſes. VI.
+
+1. Of talkyng VII
+
+1. Of heares and wittes. VIII.
+
+1. A dronkerd. IX.
+
+1. The foxe and the maide. X.
+
+1. Of an yll gouernour called Iude. XI.
+
+1. Vpon geuyng an almes. XII
+
+1. Of a ſurfette. XIII.
+
+1. Repugnancie in apparance. XIIII
+
+1. The ape and the aſſe. XV.
+
+1. A foole and a wyſe man. XVI.
+
+1. Of ſight. XVII.
+
+1. Feigned newes. XVIII.
+
+1. Two arme in •rme. XIX
+
+1. Of hearyng and ſpeakyng. XX.
+
+1. Of wit, will, and wiſdome. XXI.
+
+1. The wrenne and hir birdes. XXII.
+
+1. The maiſter and the man. XXIII.
+
+1. Vpon penaunce. XXIIII.
+
+1. Jacke and his father. XXV.
+
+1. Of a daw. XXVI.
+
+1. Of ſhe wyng the waie. XXVII.
+
+1. A quiet neighbour. XXVIII.
+
+1. Of dogges and theues. XXIX.
+
+1. A keper of the commandementes. XXX.
+
+1. Of a noſe. XXXI.
+
+1. Lettyng of a ferme. XXXII.
+
+1. Age and youth. XXXIII.
+
+1. A roſe and a nettill XXXIIII.
+
+1. Of the wifes and hir houſbandes waſte. XXXV.
+
+1. An olde wiues boone. XXXVI.
+
+1. A talke of two conies. XXXVII
+
+1. A priſoner. XXXVIII.
+
+1. Two blynde men. XXXIX.
+
+1. Debilitee of ſenſes. XL.
+
+1. A fooliſhe huſband. XLI.
+
+1. A witty wife. XLII.
+
+1. Hanſom handlyng. XLIII.
+
+1. A ſaiyng of Patche my lord cardinals foole. XLIIII.
+
+1. Certayne folies. XLV.
+
+1. Of two ſtudentes. XLVI.
+
+1. A mery woman. XLVII.
+
+1. A louſe and a flea. XLIII.
+
+1. Of hym that forgat his Pater noſter in Latine. XLIX.
+
+1. Of him that could not learne his Pater noſter in engliſh. L.
+
+1. Of the fiſt and the hert. LI.
+
+1. Of this woorde, enough. LII.
+
+1. Of table plaie. LIII.
+
+1. The cocke and the hen. LIIII,
+
+1. Chepenyng a face of furre. LV.
+
+1. Biyng of ſhooes. LVI.
+
+1. A ſuſpicion clered. LVII.
+
+1. Of ſpite. LVIII.
+
+1. Of the letter H. LIX.
+
+1. Jll fleyng of Jdelneſſe. LX.
+
+1. A tong and a clocke. LXI.
+
+1. A herer of a ſermon. LXII.
+
+1. A man without wit, ſtrength, and counnyng. LXIII.
+
+1. How to wiſſhe. LXIIII.
+
+1. A doubtfull demaunde of choyſe. LXV.
+
+1. An old widower and a yong mayde. LXVI.
+
+1. Gapyng oyſters. LXVII.
+
+1. The iudge and the iuggler. LXVIII.
+
+1. Of lokyng. LXIX.
+
+1. Of conſtancy. LXX.
+
+1. Of a face and witte. LXXI.
+
+1. Of blowyng. LXXII.
+
+1. To the flatterer. LXXIII.
+
+1. Of contentacion. LXXIIII.
+
+1. Of waityng. LXXV.
+
+1. Of fore knowlage. LXXVI.
+
+    _ The ſame im•ugned without change of woordes, except fovre or fiue.
+
+1. Miſtakyng an errande. LXXVII.
+
+1. Of holdyng an Jn. LXXVIII.
+
+1. A wiues defence of hir bettill brow. LXXIX.
+
+1. The ſhrewde wiues toonge. LXXX.
+
+1. A foolis toonge. LXXXI.
+
+1. Of glaſſe and lattiſe. LXXXII.
+
+1. Two wiſſhes for two maner of mouthes. LXXXIII.
+
+1. Of diſpreyſe. LXXXIIII.
+
+1. A diſcharge from hipocriſy. LXXXV.
+
+1. Of the foole and the gentilmans noſe. LXXXVI.
+
+1. A foole taken for wiſe. LXXXVII.
+
+1. Thynges to forheare. LXXXVIII.
+
+1. Of medlers. LXXXIX.
+
+1. Of dwellyng. XC.
+
+1. Of the milner and the ſexten. XCI.
+
+1. Of lokes and cheſe. XCII.
+
+1. Of heades. XCIII.
+
+1. The woodcock and the daw. XCIIII.
+
+1. Of few woordes. XCV.
+
+1. Wottyng and wenyng. XCVI.
+
+    _ Other wiſe.
+
+1. A muche like mattier. XCVII.
+
+1. Wiſedome and foly. XCVIII.
+
+1. Of lacke. XCIX.
+
+1. The wethercocke, the rede, and the wynde. C.
+
 #####Back#####
-An hundred epigrammes. Inuented and made by Iohn HeywoodHeywood, John, 1497?-1580?1550Approx. 72 KB 
+JMPRINTED AT LONDON IN FLETSTRETE IN THE HOVS OF THOmas Berthelet.Cum priuilegio ad imprimendum ſolu
 **Types of content**
 
   * There are 988 **verse** lines!
